@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning new things in blockchain domain - DeFi, Oracles, DAOs.
 - 👯 I’m looking to collaborate on Plasma Framework.
 - 🤔 I’m looking for help with golang.
-- 💬 Ask me anything about ethereum 2.0, IPFS, ICON network, EOS, web3.js and React.
-- 📫 How to reach me: [abhivispute33@gmail.com](mailto:abhivispute33@gmail.com), [@eugeneyan](https://twitter.com/eugeneyan).
+- 💬 Ask me about Ethereum 2.0, IPFS, ICON network, EOS, Web3.js and MERN stack.
+- 📫 How to reach me: [abhivispute33@gmail.com](mailto:abhivispute33@gmail.com).
 - 😄 Pronouns: He/him
 
 
