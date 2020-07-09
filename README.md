@@ -1,4 +1,4 @@
-### 👋 Hi there, this is Abhishek Vispute.
+### 👋 Hi there
 
 - 🔭 I’m currently working on Filecoin and IPFS.
 - 🌱 I’m currently learning new things in blockchain domain - DeFi, Oracles, DAOs.
