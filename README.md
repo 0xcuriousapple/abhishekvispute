@@ -3,8 +3,8 @@
 - 🔭 I’m currently working on Filecoin and IPFS.
 - 🌱 I’m currently learning new things in blockchain domain - DeFi, Oracles, DAOs.
 - 👯 I’m looking to collaborate on Plasma Framework.
-- 🤔 I’m looking for help with golang.
-- 💬 Ask me about Ethereum 2.0, IPFS, ICON network, EOS, Web3.js and MERN stack.
+- 🤔 I’m looking for help with UI/UX.
+- 💬 Ask me about blockchain and Full stack development.
 - 📫 How to reach me: [abhivispute33@gmail.com](mailto:abhivispute33@gmail.com).
 - 😄 Pronouns: He/him
 
