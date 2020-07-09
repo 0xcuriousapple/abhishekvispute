@@ -1,4 +1,3 @@
-### Hi there 👋
 ### 👋 Hi there, this is Abhishek Vispute.
 
 - 🔭 I’m currently working on Filecoin and IPFS.
@@ -9,7 +8,6 @@
 - 📫 How to reach me: [abhivispute33@gmail.com](mailto:abhivispute33@gmail.com), [@eugeneyan](https://twitter.com/eugeneyan).
 - 😄 Pronouns: He/him
 
-[My Site](https://eugeneyan.com) • [Twitter](https://twitter.com/eugeneyan) • [LinkedIn](https://www.linkedin.com/in/eugeneyan)
 
 
 <!--
