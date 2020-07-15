@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning new things in blockchain domain - DeFi, Oracles, DAOs.
 - 👯 I’m looking to collaborate on Plasma Framework.
 - 🤔 I’m looking for help with UI/UX.
-- 💬 Ask me about blockchain and Full stack development.
+- 💬 Ask me about **Blockchain** and Full stack development.
 - 📫 How to reach me: [abhivispute33@gmail.com](mailto:abhivispute33@gmail.com).
 
 [![HitCount](http://hits.dwyl.com/abhishekvispute/abhishekvispute.svg)](http://hits.dwyl.com/abhishekvispute/abhishekvispute)
