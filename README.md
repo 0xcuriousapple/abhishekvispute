@@ -7,9 +7,6 @@
 - 💬 Ask me about **Blockchain** and Full stack development.
 - 📫 How to reach me: Mail: [abhivispute33@gmail.com](mailto:abhivispute33@gmail.com) Telegram: @theheadhere.
 
-[![HitCount](http://hits.dwyl.com/abhishekvispute/abhishekvispute.svg)](http://hits.dwyl.com/abhishekvispute/abhishekvispute)
-
-
 
 <!--
 **abhishekvispute/abhishekvispute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
