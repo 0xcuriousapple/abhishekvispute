@@ -1,6 +1,6 @@
 ### 👋 Hi there
 
-- 🔭 I’m currently working on Filecoin and IPFS.
+- 🔭 I’m currently contributing to Razor Network 
 - 🌱 I’m currently learning new things in blockchain domain - DeFi, Oracles, DAOs.
 - 👯 I’m looking to collaborate on Plasma Framework.
 - 🤔 I’m looking for help with UI/UX.
