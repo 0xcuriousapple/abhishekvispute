@@ -1,11 +1,8 @@
 ### 👋 Hi there
 
-- 🔭 I’m currently contributing to Razor Network 
-- 🌱 I’m currently learning new things in blockchain domain - DeFi, Oracles, DAOs.
-- 👯 I’m looking to collaborate on Plasma Framework.
-- 🤔 I’m looking for help with UI/UX.
-- 💬 Ask me about **Blockchain** and Full stack development.
-- 📫 How to reach me: Mail: [abhivispute33@gmail.com](mailto:abhivispute33@gmail.com) Telegram: @theheadhere.
+- 🔭 I’m currently working on smart contracts development.
+- 💬 Ask me about **Solidity or Blockchain in general**.
+- 📫 Reach me at Mail: [abhivispute33@gmail.com](mailto:abhivispute33@gmail.com) Telegram: @theheadhere.
 
 
 <!--
