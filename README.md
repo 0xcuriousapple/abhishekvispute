@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on smart contracts development.
 - 💬 Ask me about **Solidity or Blockchain in general**.
-- 📫 Reach me at Mail: [abhivispute33@gmail.com](mailto:abhivispute33@gmail.com) Telegram: @theheadhere.
+- 📫 Reach me at mail: [abhivispute33@gmail.com](mailto:abhivispute33@gmail.com) Telegram: @theheadhere.
 
 
 <!--
