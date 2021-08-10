@@ -1,6 +1,6 @@
 ### 👋 Hi there
 
-- 🔭 I’m currently working on smart contracts.
+- 🔭 I’m currently working on [Razor Network's](https://razor.network/) smart contracts.
 - 💬 Ask me about **Solidity or Blockchain in general**.
 - 📫 Reach me at mail: [abhivispute33@gmail.com](mailto:abhivispute33@gmail.com) 
 - 💬 Telegram: [@theheadhere](https://t.me/theheadhere)
