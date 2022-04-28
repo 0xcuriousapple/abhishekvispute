@@ -1,10 +1,10 @@
 ### 👋 Hi there
 
 - 🔭 I like to read and write smart contracts.
-- Smart Contract Auditor Apprentice @shipyard_
+- 🌱 Smart Contract Auditor Apprentice [@0xmacro](https://0xmacro.com/)
 - 💬 Ask me about **Solidity or Blockchain in general**.
 - 📫 Reach me at mail: [abhivispute33@gmail.com](mailto:abhivispute33@gmail.com) 
-- 💬 Telegram: [@theheadhere](https://t.me/theheadhere)
+- 💬 Discord: abhi#3333
 
 
 <!--
