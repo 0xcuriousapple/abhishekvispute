@@ -4,7 +4,7 @@
 - 🌱 Smart Contract Auditor Apprentice [@0xmacro](https://0xmacro.com/)
 - 💬 Ask me about **Solidity or Blockchain in general**.
 - 📫 Reach me at mail: [abhivispute33@gmail.com](mailto:abhivispute33@gmail.com) 
-- 💬 Discord: abhi#3333
+- 💬 Discord: curiousapple#3333
 
 
 <!--
