@@ -1,10 +1,9 @@
 ### 👋 Hi there
 
 - 🔭 I like to read and write smart contracts.
-- 🌱 Smart Contract Auditor [@0xmacro](https://0xmacro.com/)
 - 💬 Ask me about **Solidity or Blockchain in general**.
 - 📫 Reach me at mail: [abhivispute33@gmail.com](mailto:abhivispute33@gmail.com) 
-- 💬 Discord: curiousapple#3852
+- 💬 Discord: curiousapple
 
 
 <!--
