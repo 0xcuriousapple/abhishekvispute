@@ -1,10 +1,10 @@
 ### 👋 Hi there
 
-- 🔭 I like to read and write smart contracts.
+- 🔭 I am Independent Smart Contracts Security Researcher 
 - 💬 Ask me about **Solidity or Blockchain in general**.
 - 📫 Reach me at mail: [abhivispute33@gmail.com](mailto:abhivispute33@gmail.com) 
-- 💬 Discord: curiousapple
-
+- 💬 Discord/Telegram: @curiousapple
+- 🐦 Twitter: @0xcuriousapple
 
 <!--
 **abhishekvispute/abhishekvispute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
