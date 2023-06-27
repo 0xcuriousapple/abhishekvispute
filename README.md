@@ -2,7 +2,6 @@
 
 - 🔭 I am Independent Smart Contracts Security Researcher 
 - 💬 Ask me about **Solidity or Blockchain in general**.
-- 📫 Reach me at mail: [abhivispute33@gmail.com](mailto:abhivispute33@gmail.com) 
 - 💬 Discord/Telegram: @curiousapple
 - 🐦 Twitter: @0xcuriousapple
 
