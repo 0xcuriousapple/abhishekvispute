@@ -1,6 +1,6 @@
 ### 👋 Hi there
 
-- 🔭 I am Independent Smart Contracts Security Researcher 
+- 🔭 I am an Independent Smart Contracts Security Researcher 
 - 💬 Ask me about **Solidity or Blockchain in general**.
 - 💬 Discord/Telegram: @curiousapple
 - 🐦 Twitter: @0xcuriousapple
